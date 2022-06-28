@@ -2,7 +2,7 @@ local PLUGIN = PLUGIN
 
 PLUGIN.name = "Anti-bhop"
 PLUGIN.author = "LeonoJlbD"
-PLUGIN.description = "This plugin prevent for not abusing jump."
+PLUGIN.description = "This plugin prevent abusing +jump like a bunny."
 
 
 STAMINA_MAX = 100.0
