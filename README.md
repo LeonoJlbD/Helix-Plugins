@@ -8,24 +8,34 @@
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Warning-b32132.svg?style=for-the-badge&logo=us&logoColor=white"/></a>
-</p>
+</p><br/>
 
 <p align="center"> <b> Before contact with probleme please stick to the points below: </b> </p>
 
 - First of all you should use clear helix (non modified). 
 - Second one do not change any lines for easiest way find a problem solution.
 - And third be patient, maybe you did something wrong, check twice.
+<hr>
 <br/>
-
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Install-faca46.svg?style=for-the-badge&logo=us&logoColor=white"/></a>
-</p>
+</p> <br/>
 
-<p alignt="center"> <sub> Just put file/folder in «Plugins» path. You may find it by "C:\Project\garrysmod\gamemodes\ixhl2rp\plugins" </sub> </p> <br/>
-
+<p alignt="center"> <sub> Just put file/folder in «Plugins» path. You may find it by "C:\Project\garrysmod\gamemodes\ixhl2rp\plugins" </sub> </p> 
+<hr>
+<br/>
 
 1. **Anti Bunny Hop** — *automated feature that helps you prevent jump abusing by setting variation speed and cutting stamina (making player speed slow plus cutting stamina).*
 
 <p align="left">
   <a href="https://twitch.tv/leon0jlbd"><img src="https://badge-size.herokuapp.com/leonojlbd/Helix-Plugins/main/antibhop.lua"/></a>
 </p>
+<hr>
+<br/>
+
+2. **Binds** — *Some various of bind to easiest gameplay, prevent unlimited clicking console/tab for toggle auto walk/third person.* <br/>
+
+<p align="left">
+  <a href="https://twitch.tv/leon0jlbd"><img src="https://badge-size.herokuapp.com/leonojlbd/Helix-Plugins/main/binds.lua"/></a>
+</p>
+<hr>
