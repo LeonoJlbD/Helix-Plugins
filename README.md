@@ -33,7 +33,7 @@
 <hr>
 <br/>
 
-2. **Binds** — *Some various of bind to easiest gameplay, prevent unlimited clicking console/tab for toggle auto walk/third person.* <br/>
+2. **Binds** — *some various of bind to easiest gameplay, prevent unlimited clicking console/tab for toggle auto walk/third person.* <br/>
 
 <p align="left">
   <a href="https://twitch.tv/leon0jlbd"><img src="https://badge-size.herokuapp.com/leonojlbd/Helix-Plugins/main/binds.lua"/></a>
